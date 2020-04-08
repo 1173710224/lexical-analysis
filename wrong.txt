@@ -1,0 +1,4 @@
+char n = 'a;
+int m = 0x6;
+int i = 07;
+int d = 1.0E-;
